@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\obj\Debug\netcoreapp3.1\NumeroPefecto.Form1.resources
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\obj\Debug\netcoreapp3.1\NumeroPefecto.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\obj\Debug\netcoreapp3.1\NumeroPefecto.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\obj\Debug\netcoreapp3.1\NumeroPefecto.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\obj\Debug\netcoreapp3.1\NumeroPefecto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\bin\Debug\netcoreapp3.1\NumeroPefecto.exe
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\bin\Debug\netcoreapp3.1\NumeroPefecto.deps.json
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\bin\Debug\netcoreapp3.1\NumeroPefecto.runtimeconfig.json
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\bin\Debug\netcoreapp3.1\NumeroPefecto.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\bin\Debug\netcoreapp3.1\NumeroPefecto.dll
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\bin\Debug\netcoreapp3.1\NumeroPefecto.pdb
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\obj\Debug\netcoreapp3.1\NumeroPefecto.dll
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\obj\Debug\netcoreapp3.1\NumeroPefecto.pdb
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\obj\Debug\netcoreapp3.1\NumeroPefecto.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\NumeroPefecto\NumeroPefecto\obj\Debug\netcoreapp3.1\NumeroPefecto.csprojAssemblyReference.cache
